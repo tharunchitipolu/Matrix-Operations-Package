@@ -1,5 +1,5 @@
 # Matrix-Operations-Package
-# Course project for computational engineering
+Course project for computational engineering
 
 
 
